@@ -14,5 +14,8 @@
             "email": "ajmalalkhaledi@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+    "class": "Arcadia\\Plugin\\PluginClassName"
+    }
 }
